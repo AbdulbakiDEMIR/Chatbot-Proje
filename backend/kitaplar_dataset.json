@@ -1,0 +1,1379 @@
+[
+  {
+    "id": 0,
+    "title": "Kuyucaklı Yusuf",
+    "author": "Sabahattin Ali",
+    "genre": "Roman",
+    "summary": "Kuyucak'ta ailesi eşkıyalar tarafından öldürülen Yusuf'un evlatlık olarak kasabaya gelişiyle başlayan, Anadolu insanının yaşamını ve aşkı konu alan bir roman.",
+    "stock": 12,
+    "price": 187
+  },
+  {
+    "id": 1,
+    "title": "Oliver Twist",
+    "author": "Charles Dickens",
+    "genre": "Roman",
+    "summary": "Yetimhanede büyüyen Oliver Twist'in zorluklarla dolu hayatını ve iyi kalpli bir aileye kavuşma mücadelesini anlatan sosyal içerikli bir İngiliz klasiği.",
+    "stock": 14,
+    "price": 163
+  },
+  {
+    "id": 2,
+    "title": "Babalar ve Oğullar",
+    "author": "Ivan Sergeyevich Turgenev",
+    "genre": "Roman",
+    "summary": "Nihilizmi savunan gençlerle geleneksel değerlere bağlı babalar arasındaki kuşak çatışmasını anlatan Turgenev'in başyapıtı.",
+    "stock": 15,
+    "price": 95
+  },
+  {
+    "id": 3,
+    "title": "Vadideki Zambak",
+    "author": "Honore de Balzac",
+    "genre": "Roman",
+    "summary": "Aşkı, acıyı ve fedakarlığı anlatan; idealize edilmiş bir aşk hikayesi üzerinden Fransız toplumunu irdeleyen bir Balzac romanı.",
+    "stock": 16,
+    "price": 286
+  },
+  {
+    "id": 4,
+    "title": "Suç ve Ceza",
+    "author": "Fyodor Mihayloviç Dostoyevski",
+    "genre": "Psikolojik Roman",
+    "summary": "Bir cinayet işleyen Raskolnikov’un vicdan azabı, ruhsal çöküşü ve sonunda arınma sürecini konu alan, insan psikolojisinin derinlemesine işlendiği bir başyapıt.",
+    "stock": 14,
+    "price": 90
+  },
+  {
+    "id": 5,
+    "title": "Küçük Prens",
+    "author": "Antoine de Saint-Exupery",
+    "genre": "Felsefi Masal",
+    "summary": "Bir pilotun çölde karşılaştığı Küçük Prens’in gözünden yetişkin dünyasının sorgulandığı, dostluk ve insan olmanın anlamını anlatan evrensel bir klasik.",
+    "stock": 20,
+    "price": 110
+  },
+  {
+    "id": 6,
+    "title": "Robin Hood - Kısaltılmış Metin",
+    "author": "Howard Pyle",
+    "genre": "Macera",
+    "summary": "Zenginden alıp fakire veren cesur bir haydut olan Robin Hood’un adalet mücadelesi ve serüvenleriyle dolu klasik bir halk hikayesi.",
+    "stock": 12,
+    "price": 171
+  },
+  {
+    "id": 7,
+    "title": "Orhan Veli - Bütün Şiirleri",
+    "author": "Orhan Veli Kanık",
+    "genre": "Şiir",
+    "summary": "Orhan Veli’nin gündelik yaşamı, aşkı ve doğayı sade bir dille işlediği şiirlerini içeren bütün şiirler derlemesi.",
+    "stock": 15,
+    "price": 221
+  },
+  {
+    "id": 8,
+    "title": "Beyaz Gemi",
+    "author": "Cengiz Aytmatov",
+    "genre": "Roman",
+    "summary": "Issız bir dağ köyünde dedesiyle yaşayan küçük bir çocuğun hayal gücüyle doğaya ve insanlara bakışını konu alan, simgesel anlatımı güçlü bir eser.",
+    "stock": 10,
+    "price": 59
+  },
+  {
+    "id": 9,
+    "title": "Yaban",
+    "author": "Yakup Kadri Karaosmanoğlu",
+    "genre": "Roman",
+    "summary": "Kurtuluş Savaşı yıllarında köylülerle aydınlar arasındaki uçurumu gözler önüne seren, Anadolu gerçekliğini işleyen önemli bir toplumsal roman.",
+    "stock": 9,
+    "price": 67
+  },
+  {
+    "id": 10,
+    "title": "Yaşlı Adam ve Deniz İhtiyar Balıkçı",
+    "author": "Ernest Hemingway",
+    "genre": "Roman",
+    "summary": "Kübalı yaşlı bir balıkçının denizde verdiği yaşam mücadelesi üzerinden insanın azmini, yalnızlığını ve doğayla ilişkisini anlatan simgesel bir eser.",
+    "stock": 6,
+    "price": 215
+  },
+  {
+    "id": 11,
+    "title": "Peter Pan Kısaltılmış Metin",
+    "author": "James Matthew Barrie",
+    "genre": "Çocuk Kitabı",
+    "summary": "Hiç büyümeyen çocuk Peter Pan’in maceraları, arkadaşlık ve hayal gücüyle dolu büyüleyici bir dünya sunar.",
+    "stock": 17,
+    "price": 122
+  },
+  {
+    "id": 12,
+    "title": "Momo",
+    "author": "Michael Ende",
+    "genre": "Fantastik Roman",
+    "summary": "Zaman hırsızlarına karşı mücadele eden küçük bir kızın hikayesiyle, zamanın değeri ve modern yaşamın eleştirisini sunar.",
+    "stock": 12,
+    "price": 77
+  },
+  {
+    "id": 13,
+    "title": "Pinokyo",
+    "author": "Carlo Collodi",
+    "genre": "Çocuk Kitabı",
+    "summary": "Yalan söyledikçe burnu uzayan tahta bir çocuğun, gerçek bir insan olma yolculuğunu konu eden klasik bir masal.",
+    "stock": 19,
+    "price": 85
+  },
+  {
+    "id": 14,
+    "title": "Ölümsüz Aile",
+    "author": "Natalie Babbitt",
+    "genre": "Fantastik Roman",
+    "summary": "Ölümsüzlüğün sırlarını taşıyan Tuck ailesiyle tanışan bir kız çocuğunun hayat, ölüm ve seçimler üzerine düşündüren hikayesi.",
+    "stock": 9,
+    "price": 58
+  },
+  {
+    "id": 15,
+    "title": "Sinekli Bakkal",
+    "author": "Halide Edib Adıvar",
+    "genre": "Tarihî Roman",
+    "summary": "II. Abdülhamit dönemi İstanbul’unda geçen, doğu-batı çatışmasını ve geleneksel yapının değişimini anlatan bir romandır.",
+    "stock": 9,
+    "price": 182
+  },
+  {
+    "id": 16,
+    "title": "İbrahim Efendi Konağı",
+    "author": "Samiha Ayverdi",
+    "genre": "Tarihî Roman",
+    "summary": "Osmanlı'nın son döneminde bir konak ve etrafındaki yaşam üzerinden geleneksel Türk toplumunun çözülüşünü işler.",
+    "stock": 12,
+    "price": 244
+  },
+  {
+    "id": 17,
+    "title": "Han Duvarları",
+    "author": "Faruk Nafiz Çamlıbel",
+    "genre": "Şiir",
+    "summary": "Şairin Anadolu yolculuğunda gözlemlediği yoksulluğu ve memleket sevgisini yansıttığı, edebiyatımızın unutulmaz şiirlerinden biridir.",
+    "stock": 13,
+    "price": 300
+  },
+  {
+    "id": 19,
+    "title": "Hikaye Kitapları Seçmeler 1 10 Kitap Takım",
+    "author": "Kolektif",
+    "genre": "Öykü Derlemesi",
+    "summary": "Farklı yazarlardan seçilmiş klasik ve modern öykülerin yer aldığı zengin içerikli bir derleme seti.",
+    "stock": 18,
+    "price": 68
+  },
+  {
+    "id": 20,
+    "title": "Nasrettin Hoca Hikayeleri",
+    "author": "Orhan Veli Kanık",
+    "genre": "Fıkra / Mizah",
+    "summary": "Anadolu halkının zekâsını ve yaşam felsefesini yansıtan, düşündürücü ve güldürücü kısa hikayelerden oluşan klasik fıkralar dizisi.",
+    "stock": 13,
+    "price": 82
+  },
+  {
+    "id": 21,
+    "title": "Dede Korkut Hikayeleri",
+    "author": "Orhan Şaik Gökyay",
+    "genre": "Destan",
+    "summary": "Oğuz Türklerinin kahramanlık, aşk, töre ve inançlarını içeren, sözlü edebiyatın en önemli eserlerinden biri olan destansı anlatılar.",
+    "stock": 5,
+    "price": 176
+  },
+  {
+    "id": 22,
+    "title": "Vatan Yahut Silistre",
+    "author": "Namık Kemal",
+    "genre": "Tiyatro",
+    "summary": "Bir Osmanlı askerinin vatan sevgisi uğruna verdiği mücadelenin anlatıldığı, Türk edebiyatının ilk özgürlükçü tiyatro eserlerinden biridir.",
+    "stock": 14,
+    "price": 59
+  },
+  {
+    "id": 23,
+    "title": "İki Şehrin Hikayesi",
+    "author": "Charles Dickens",
+    "genre": "Tarihî Roman",
+    "summary": "Fransız Devrimi döneminde Londra ve Paris’te geçen, fedakarlık ve yeniden doğuş temalarını işleyen klasik bir roman.",
+    "stock": 19,
+    "price": 96
+  },
+  {
+    "id": 24,
+    "title": "Beyaz Diş",
+    "author": "Jack London",
+    "genre": "Macera",
+    "summary": "Bir kurt köpeğinin doğaya karşı hayatta kalma mücadelesi ile insanlarla kurduğu ilişkinin değişimini anlatan klasik bir doğa romanı.",
+    "stock": 20,
+    "price": 216
+  },
+  {
+    "id": 25,
+    "title": "Yalnız Efe",
+    "author": "Ömer Seyfettin",
+    "genre": "Hikaye",
+    "summary": "Zulme karşı dağa çıkan genç bir kızın efe oluşunu anlatan, adalet ve cesaret temalı etkileyici bir öykü.",
+    "stock": 20,
+    "price": 146
+  },
+  {
+    "id": 26,
+    "title": "Bize Göre",
+    "author": "Ahmet Haşim",
+    "genre": "Deneme",
+    "summary": "Batılılaşan İstanbul’un günlük yaşamına, sanatına ve insan ilişkilerine dair gözlemlerin yer aldığı kısa denemelerden oluşur.",
+    "stock": 16,
+    "price": 127
+  },
+  {
+    "id": 27,
+    "title": "Gora",
+    "author": "Rabindranath Tagore",
+    "genre": "Roman",
+    "summary": "Hint toplumunda kast sistemi, kimlik arayışı ve maneviyat gibi temaları işleyen, felsefi yönü güçlü bir romandır.",
+    "stock": 6,
+    "price": 256
+  },
+  {
+    "id": 28,
+    "title": "Dede Korkut Hikayeleri",
+    "author": "Kolektif",
+    "genre": "Destan",
+    "summary": "Türk halk edebiyatının temel taşlarından olan Dede Korkut anlatıları, kahramanlık ve töre temalarını işler.",
+    "stock": 15,
+    "price": 128
+  },
+  {
+    "id": 29,
+    "title": "Hikayeler Kısaltılmış Metin",
+    "author": "Anton Pavloviç Çehov",
+    "genre": "Hikaye",
+    "summary": "İnsan psikolojisini ve günlük yaşamın sıradan görünümlerini ustalıkla işleyen kısa, düşündürücü öykülerden oluşan bir seçki.",
+    "stock": 18,
+    "price": 110
+  },
+  {
+    "id": 30,
+    "title": "Faust",
+    "author": "Johann Wolfgang von Goethe",
+    "genre": "Tragedya / Felsefi",
+    "summary": "Bilgiye olan açlığıyla şeytanla anlaşma yapan Dr. Faust’un, insan ruhunun arayışlarını konu alan edebiyat tarihinin en büyük felsefi trajedilerinden biridir.",
+    "stock": 16,
+    "price": 154
+  },
+  {
+    "id": 31,
+    "title": "Tiryaki Sözleri",
+    "author": "Cenap Şahabettin",
+    "genre": "Vecize / Aforizma",
+    "summary": "Hayat, insan ve toplum üzerine kısa ama derin anlamlar içeren özlü sözlerin yer aldığı bir eser.",
+    "stock": 16,
+    "price": 200
+  },
+  {
+    "id": 32,
+    "title": "Derviş ve Ölüm",
+    "author": "Meşa Selimoviç",
+    "genre": "Felsefi Roman",
+    "summary": "Bir dervişin hayat, ölüm, adalet ve iktidar üzerine içsel sorgulamalarını işleyen derinlikli ve çarpıcı bir roman.",
+    "stock": 8,
+    "price": 52
+  },
+  {
+    "id": 33,
+    "title": "Kaplumbağalar",
+    "author": "Fakir Baykurt",
+    "genre": "Toplumcu Roman",
+    "summary": "Köylülerin toprak ve yaşam mücadelesini simgesel anlatımla aktaran, Anadolu'nun toplumsal yapısını gözler önüne seren etkileyici bir roman.",
+    "stock": 14,
+    "price": 69
+  },
+  {
+    "id": 34,
+    "title": "Peri Kızı ile Çoban Hikayesi",
+    "author": "Orhan Seyfi Orhon",
+    "genre": "Halk Hikayesi / Masal",
+    "summary": "Klasik halk anlatısı biçiminde yazılmış, aşk ve fedakarlık temalarını işleyen romantik bir hikaye.",
+    "stock": 17,
+    "price": 275
+  },
+  {
+    "id": 35,
+    "title": "Türkçe`nin Sırları",
+    "author": "Nihad Sami Banarlı",
+    "genre": "Dil İncelemesi",
+    "summary": "Türkçenin yapısını, güzelliklerini ve ifade gücünü örneklerle anlatan öğretici bir dil ve edebiyat incelemesi.",
+    "stock": 5,
+    "price": 292
+  },
+  {
+    "id": 36,
+    "title": "GÖL ÇOCUKLARI",
+    "author": "İbrahim Örs",
+    "genre": "Çocuk Romanı",
+    "summary": "Göl kenarındaki bir köyde yaşayan çocukların dayanışma, dostluk ve doğayla iç içe yaşamlarını konu alan duygusal bir hikaye.",
+    "stock": 19,
+    "price": 177
+  },
+  {
+    "id": 37,
+    "title": "Tom Sawyer Kısaltılmış Metin",
+    "author": "Mark Twain",
+    "genre": "Macera / Çocuk",
+    "summary": "Meraklı ve yaramaz bir çocuğun Mississippi kıyılarında geçen serüven dolu hayatını konu alan Amerikan çocuk edebiyatının klasiklerinden biridir.",
+    "stock": 5,
+    "price": 271
+  },
+  {
+    "id": 38,
+    "title": "Şehir Mektupları",
+    "author": "Ahmet Rasim",
+    "genre": "Fıkra / Deneme",
+    "summary": "İstanbul’un sosyal hayatı, insanları ve sokak yaşamı üzerine gözlemlerin yer aldığı renkli ve canlı anlatımlı kısa yazılar.",
+    "stock": 19,
+    "price": 108
+  },
+  {
+    "id": 39,
+    "title": "Karartma Geceleri",
+    "author": "Rıfat Ilgaz",
+    "genre": "Roman",
+    "summary": "İkinci Dünya Savaşı’nın etkisindeki İstanbul’da geçen, baskı döneminin karanlık atmosferini ve bireysel özgürlük arayışını konu eden çarpıcı bir roman.",
+    "stock": 19,
+    "price": 93
+  },
+  {
+    "id": 40,
+    "title": "Define Adası",
+    "author": "Robert Louis Stevenson",
+    "genre": "Macera",
+    "summary": "Genç Jim Hawkins'in bir harita aracılığıyla çıktığı tehlikeli hazine yolculuğu, korsanlarla dolu unutulmaz bir maceraya dönüşür.",
+    "stock": 18,
+    "price": 107
+  },
+  {
+    "id": 41,
+    "title": "Şamatalı Köy",
+    "author": "Astrid Lindgren",
+    "genre": "Çocuk Kitabı",
+    "summary": "Neşe ve oyun dolu bir köyde yaşayan çocukların maceralarını anlatan, dostluk ve dayanışma temalı sıcak bir hikaye.",
+    "stock": 14,
+    "price": 112
+  },
+  {
+    "id": 42,
+    "title": "Andersen Masalları",
+    "author": "Hans Christian Andersen",
+    "genre": "Masal",
+    "summary": "Küçük Kara Balık, Kurşun Asker, Kırmızı Pabuçlar gibi zamansız masalları içeren, evrensel değerler ve duygularla örülü klasik bir koleksiyon.",
+    "stock": 15,
+    "price": 236
+  },
+  {
+    "id": 43,
+    "title": "Gulyabani",
+    "author": "Hüseyin Rahmi Gürpınar",
+    "genre": "Gülmece / Gotik Roman",
+    "summary": "İstanbul’un arka sokaklarında geçen, batıl inançlar ve korku kültürünü hicivle harmanlayan eğlenceli ve düşündürücü bir roman.",
+    "stock": 12,
+    "price": 87
+  },
+  {
+    "id": 44,
+    "title": "Bağrıyanık Ömer",
+    "author": "Mahmut Yesari",
+    "genre": "Roman",
+    "summary": "İstanbul sokaklarında yoksulluk ve umut arasında büyüyen küçük bir çocuğun dokunaklı hayat öyküsü.",
+    "stock": 13,
+    "price": 90
+  },
+  {
+    "id": 45,
+    "title": "Beyaz Yele",
+    "author": "Rene Guillot",
+    "genre": "Çocuk Romanı",
+    "summary": "Küçük bir çocuğun vahşi bir at olan Beyaz Yele ile kurduğu güçlü dostluğu konu alan doğa sevgisiyle dolu bir hikaye.",
+    "stock": 19,
+    "price": 228
+  },
+  {
+    "id": 46,
+    "title": "Otuz Beş Yaş",
+    "author": "Cahit Sıtkı Tarancı",
+    "genre": "Şiir",
+    "summary": "Şairin hayatının dönüm noktası olan otuz beş yaşında, ölüm ve yaşam üzerine yazdığı derin ve duygulu şiirlerin yer aldığı eser.",
+    "stock": 16,
+    "price": 131
+  },
+  {
+    "id": 47,
+    "title": "Mor Salkımlı Ev",
+    "author": "Halide Edib Adıvar",
+    "genre": "Anı / Otobiyografi",
+    "summary": "Halide Edib’in çocukluk ve gençlik anılarını, dönemin toplumsal yapısıyla birlikte aktardığı otobiyografik bir eser.",
+    "stock": 7,
+    "price": 177
+  },
+  {
+    "id": 48,
+    "title": "İnci`nin Maceraları",
+    "author": "Orhan Kemal",
+    "genre": "Roman",
+    "summary": "Küçük yaşta hayatın zorluklarıyla yüzleşen İnci'nin yaşadığı olaylarla büyüme serüvenini anlatan toplumsal içerikli bir roman.",
+    "stock": 13,
+    "price": 278
+  },
+  {
+    "id": 49,
+    "title": "Türk Atasözlerinden Seçmeler",
+    "author": "Kolektif",
+    "genre": "Halk Edebiyatı / Derleme",
+    "summary": "Türk milletinin yüzyıllardır süregelen deneyimlerinden süzülmüş, ders verici nitelikteki özlü sözlerin derlendiği kaynak bir eser.",
+    "stock": 7,
+    "price": 249
+  },
+  {
+    "id": 50,
+    "title": "Balım Kız Dalım Oğul",
+    "author": "Ceyhun Atuf Kansu",
+    "genre": "Şiir",
+    "summary": "Çocuklara, doğaya ve yurt sevgisine dair duygu yüklü şiirlerin yer aldığı, içtenlik dolu bir eser.",
+    "stock": 18,
+    "price": 253
+  },
+  {
+    "id": 51,
+    "title": "Tekerlemeler",
+    "author": "Osman Sevim",
+    "genre": "Halk Edebiyatı / Derleme",
+    "summary": "Türk halk kültüründe yer edinmiş, eğlenceli, kafiyeli ve ritmik söz oyunlarından oluşan geleneksel tekerleme derlemesi.",
+    "stock": 11,
+    "price": 119
+  },
+  {
+    "id": 52,
+    "title": "Koçyiğit Köroğlu",
+    "author": "Ahmet Kutsi Tecer",
+    "genre": "Destan / Tiyatro",
+    "summary": "Türk halk kahramanı Köroğlu’nun yiğitliğini, halk mücadelesini ve efsanevi yönünü işleyen manzum tiyatro eseri.",
+    "stock": 15,
+    "price": 161
+  },
+  {
+    "id": 53,
+    "title": "Cumhuriyet Öncesi Yazarlardan Çocuklara Hikayeler",
+    "author": "Mehmet Seyda",
+    "genre": "Çocuk Hikayeleri / Derleme",
+    "summary": "Cumhuriyet öncesi Türk edebiyatının seçkin yazarlarından, çocuklara yönelik eğitici ve öğretici hikayelerin derlemesi.",
+    "stock": 8,
+    "price": 238
+  },
+  {
+    "id": 54,
+    "title": "Ahmet Kutsi Tecer Bütün Şiirleri",
+    "author": "Ahmet Kutsi Tecer",
+    "genre": "Şiir",
+    "summary": "Milli duygular, Anadolu insanı ve doğa temalı şiirlerin yer aldığı, şairin tüm şiirlerinden oluşan kapsamlı bir koleksiyon.",
+    "stock": 8,
+    "price": 161
+  },
+  {
+    "id": 55,
+    "title": "Halk Şiirinden Seçmeler",
+    "author": "Ali Berat Alptekin",
+    "genre": "Halk Şiiri / Derleme",
+    "summary": "Türk halk edebiyatının anonim ve âşık şiirlerinden örneklerin sunulduğu, kültürel mirası yansıtan bir derleme.",
+    "stock": 14,
+    "price": 213
+  },
+  {
+    "id": 56,
+    "title": "Altın Işık",
+    "author": "Ziya Gökalp",
+    "genre": "Şiir / Masal",
+    "summary": "Türk milletinin tarihi ve kültürel köklerine dayanan didaktik şiir ve masalların yer aldığı, milli duyguları ön plana çıkaran bir eser.",
+    "stock": 12,
+    "price": 61
+  },
+  {
+    "id": 57,
+    "title": "Sokrates’in Savunması",
+    "author": "Platon (Eflatun)",
+    "genre": "Felsefi / Diyalog",
+    "summary": "Sokrates'in mahkemede yaptığı ünlü savunmasını içeren, felsefe tarihinin en etkileyici metinlerinden biridir.",
+    "stock": 8,
+    "price": 251
+  },
+  {
+    "id": 58,
+    "title": "Halime Kaptan",
+    "author": "Rıfat Ilgaz",
+    "genre": "Tarihî Roman",
+    "summary": "Kurtuluş Savaşı’nda mücadele eden Halime Kaptan’ın gerçek olaylara dayalı direniş hikayesini anlatan etkileyici bir roman.",
+    "stock": 16,
+    "price": 267
+  },
+  {
+    "id": 59,
+    "title": "Gençler İçin Fotoğraflarla Nutuk",
+    "author": "Mustafa Kemal Atatürk",
+    "genre": "Tarih / Belgesel",
+    "summary": "Atatürk’ün Nutuk adlı eserinin gençlere yönelik sadeleştirilmiş ve görsellerle zenginleştirilmiş versiyonu.",
+    "stock": 10,
+    "price": 92
+  },
+  {
+    "id": 60,
+    "title": "Az Gittik Uz Gittik",
+    "author": "Pertev Naili Boratav",
+    "genre": "Halk Hikayesi / Derleme",
+    "summary": "Türk halk anlatı geleneğine dayanan masal, efsane ve fıkra türündeki eserlerin yer aldığı zengin folklorik bir derleme.",
+    "stock": 10,
+    "price": 287
+  },
+  {
+    "id": 61,
+    "title": "Gurbet Hikayeleri",
+    "author": "Refik Halid Karay",
+    "genre": "Öykü",
+    "summary": "Anadolu’nun farklı yörelerinden insan manzaraları sunan, memleket özlemi ve yalnızlık temalı kısa hikâyeler.",
+    "stock": 7,
+    "price": 197
+  },
+  {
+    "id": 62,
+    "title": "Çocuklara Şiirler",
+    "author": "Vehbi Cem Aşkun",
+    "genre": "Çocuk Şiiri",
+    "summary": "Çocuklara doğayı, sevgiyi ve değerleri anlatan sade ve duygusal şiirlerin bulunduğu sevimli bir şiir kitabı.",
+    "stock": 10,
+    "price": 66
+  },
+  {
+    "id": 63,
+    "title": "Çile",
+    "author": "Necip Fazıl Kısakürek",
+    "genre": "Şiir",
+    "summary": "Şairin içsel yolculuğunu, metafizik arayışlarını ve imanla yoğrulmuş hayat felsefesini yansıtan şiirlerden oluşan bir başyapıt.",
+    "stock": 6,
+    "price": 231
+  },
+  {
+    "id": 64,
+    "title": "Çanlar Kimin İçin Çalıyor",
+    "author": "Ernest Hemingway",
+    "genre": "Tarihî Roman",
+    "summary": "İspanya İç Savaşı sırasında geçen ve savaşın insan ruhundaki yıkıcı etkilerini irdeleyen epik ve dramatik bir roman.",
+    "stock": 20,
+    "price": 275
+  },
+  {
+    "id": 65,
+    "title": "Arılar Ordusu",
+    "author": "Bekir Yıldız",
+    "genre": "Toplumcu Roman",
+    "summary": "Göçmen işçilerin Batı’da karşılaştıkları zorlukları ve kültürel çatışmaları anlatan çarpıcı bir göç romanı.",
+    "stock": 7,
+    "price": 245
+  },
+  {
+    "id": 66,
+    "title": "Gulliver’in Gezileri",
+    "author": "Jonathan Swift",
+    "genre": "Macera / Siyasi Yergi",
+    "summary": "Gulliver’in fantastik ülkelerde yaşadığı sıra dışı olaylar aracılığıyla insan doğasına ve topluma yönelik sert bir hiciv.",
+    "stock": 10,
+    "price": 70
+  },
+  {
+    "id": 67,
+    "title": "Aganta Burina Burinata",
+    "author": "Cevat Şakir Kabaağaçlı (Halikarnas Balıkçısı)",
+    "genre": "Deniz Romanı",
+    "summary": "Denize tutkuyla bağlı bir adamın içsel çatışmalarını ve özgürlük arayışını konu alan deniz ve doğa temalı lirik bir roman.",
+    "stock": 20,
+    "price": 71
+  },
+  {
+    "id": 68,
+    "title": "Sahnenin Dışındakiler",
+    "author": "Ahmet Hamdi Tanpınar",
+    "genre": "Roman",
+    "summary": "Kurtuluş Savaşı'nın hemen öncesindeki İstanbul’u, bireylerin iç dünyaları ve toplumsal değişim üzerinden anlatan etkileyici bir roman.",
+    "stock": 10,
+    "price": 231
+  },
+  {
+    "id": 69,
+    "title": "Uç Minik Serçem",
+    "author": "Necati Cumalı",
+    "genre": "Öykü",
+    "summary": "Çocukların dünyasına sevgi, masumiyet ve özlemle yaklaşan; duygu dolu kısa hikâyelerden oluşan bir kitap.",
+    "stock": 9,
+    "price": 230
+  },
+  {
+    "id": 70,
+    "title": "Vatan Toprağı",
+    "author": "Mükerrem Kamil Su",
+    "genre": "Tarihî Roman",
+    "summary": "Kurtuluş Savaşı yıllarında Anadolu insanının vatan savunmasındaki fedakarlığını ve milli mücadele ruhunu anlatan bir roman.",
+    "stock": 9,
+    "price": 270
+  },
+  {
+    "id": 71,
+    "title": "Yonca Kız",
+    "author": "Kemal Bilbaşar",
+    "genre": "Roman",
+    "summary": "Güçlü bir kadın karakterin yaşadığı çevreyle ve kendisiyle olan mücadelesini konu alan, toplumsal ve psikolojik öğeler barındıran bir roman.",
+    "stock": 17,
+    "price": 260
+  },
+  {
+    "id": 72,
+    "title": "Cemo",
+    "author": "Kemal Bilbaşar",
+    "genre": "Tarihî Roman",
+    "summary": "Doğu Anadolu’daki köy yaşamı, feodal yapı ve halkın yaşadığı baskılar ekseninde Cemo adlı genç bir kadının dramını konu alır.",
+    "stock": 9,
+    "price": 78
+  },
+  {
+    "id": 73,
+    "title": "Alice Harikalar Ülkesinde",
+    "author": "Lewis Carroll",
+    "genre": "Fantastik / Çocuk",
+    "summary": "Alice’in tavşan deliğinden geçerek girdiği büyülü dünyada yaşadığı tuhaf ve eğlenceli olayları anlatan klasik bir fantastik masal.",
+    "stock": 11,
+    "price": 181
+  },
+  {
+    "id": 74,
+    "title": "Yağmur Yağdıran Kedi 1. Kitap",
+    "author": "Marcel Ayme",
+    "genre": "Çocuk Kitabı",
+    "summary": "Sihirli güçleri olan bir kedinin yardımıyla yağmur getiren çocukların doğa ve insanlıkla ilişkisini konu alan eğlenceli bir hikaye.",
+    "stock": 17,
+    "price": 258
+  },
+  {
+    "id": 75,
+    "title": "Halikarnas Balıkçısı - Uluç Reis Bütün Eserleri 5",
+    "author": "Cevat Şakir Kabaağaçlı (Halikarnas Balıkçısı)",
+    "genre": "Tarihî Roman",
+    "summary": "Osmanlı denizciliğinin altın çağında geçen, Uluç Reis’in Akdeniz’deki kahramanlıklarını anlatan denizcilik temalı tarihî bir roman.",
+    "stock": 9,
+    "price": 287
+  },
+  {
+    "id": 76,
+    "title": "Ayaşlı ile Kiracıları",
+    "author": "Memduh Şevket Esendal",
+    "genre": "Roman",
+    "summary": "Cumhuriyet dönemi Ankara’sında bir konakta yaşayan farklı insanların gündelik hayatlarını ve çatışmalarını anlatan gözlemci bir roman.",
+    "stock": 14,
+    "price": 74
+  },
+  {
+    "id": 77,
+    "title": "Gümüş Kanat",
+    "author": "Cahit Uçuk",
+    "genre": "Çocuk Romanı",
+    "summary": "Gümüş Kanat adlı bir kuşla çocuklar arasında kurulan dostluk üzerinden doğa sevgisi, iyilik ve dayanışma temalarını işler.",
+    "stock": 7,
+    "price": 89
+  },
+  {
+    "id": 78,
+    "title": "Gururlu Peri",
+    "author": "Mehmet Seyda",
+    "genre": "Çocuk Hikayesi",
+    "summary": "Gururu nedeniyle arkadaşlarını kaybeden bir perinin yaşadıkları üzerinden dostluğun ve alçakgönüllülüğün önemini vurgulayan öğretici bir öykü.",
+    "stock": 7,
+    "price": 178
+  },
+  {
+    "id": 79,
+    "title": "87 Oğuz",
+    "author": "Nimet Çalapala",
+    "genre": "Tarihî / Destansı Hikaye",
+    "summary": "Türk tarihindeki Oğuz boylarının kahramanlıkları ve destansı mücadelelerini konu alan, milli değerlerle örülü bir anlatı.",
+    "stock": 13,
+    "price": 63
+  },
+  {
+    "id": 80,
+    "title": "Yunus Emre Divanı’ndan Seçmeler",
+    "author": "Yunus Emre",
+    "genre": "Tasavvufi Şiir",
+    "summary": "Yunus Emre’nin Allah, aşk, insanlık ve hoşgörü temalarını işlediği sade ve derin anlamlı şiirlerinden seçmeler.",
+    "stock": 9,
+    "price": 233
+  },
+  {
+    "id": 81,
+    "title": "Ömer’in Çocukluğu",
+    "author": "Muallim Naci",
+    "genre": "Anı / Çocukluk Hatıraları",
+    "summary": "Tanzimat döneminde bir çocuğun aile, mahalle ve okul yaşantısını anlatan sıcak ve içten anılar.",
+    "stock": 17,
+    "price": 295
+  },
+  {
+    "id": 82,
+    "title": "Divan Şiirinden Seçmeler",
+    "author": "Osman Koca",
+    "genre": "Klasik Türk Şiiri / Antoloji",
+    "summary": "Divan edebiyatının önemli şairlerinden seçilmiş gazel, kaside ve rubailerin yer aldığı klasik şiir örnekleri.",
+    "stock": 20,
+    "price": 68
+  },
+  {
+    "id": 83,
+    "title": "YÜREKDEDE İLE PADİŞAH",
+    "author": "Cahit Zarifoğlu",
+    "genre": "Çocuk Hikayesi / Masal",
+    "summary": "Yüreğiyle iyilik yayan bir dedenin padişahın kalbine dokunuşunu anlatan, erdem ve sevgi dolu bir masal hikayesi.",
+    "stock": 19,
+    "price": 224
+  },
+  {
+    "id": 84,
+    "title": "Türkülerden Seçmeler",
+    "author": "Kolektif",
+    "genre": "Halk Müziği / Derleme",
+    "summary": "Anadolu’nun çeşitli yörelerinden derlenmiş, sevda, gurbet, hasret ve kahramanlık temalı halk türküleri.",
+    "stock": 11,
+    "price": 202
+  },
+  {
+    "id": 85,
+    "title": "Uçan Sınıf",
+    "author": "Erich Kastner",
+    "genre": "Çocuk Romanı",
+    "summary": "Yatılı okulda okuyan öğrencilerin dostluk, cesaret ve dayanışma içeren maceralarını konu alan sıcak bir çocuk romanı.",
+    "stock": 8,
+    "price": 216
+  },
+  {
+    "id": 86,
+    "title": "Masallar Bütün Ezop Masalları",
+    "author": "Aisopos",
+    "genre": "Fabllar / Masal",
+    "summary": "Hayvan karakterler aracılığıyla evrensel ahlaki dersler veren, kısa ve özlü anlatımıyla bilinen klasik fabl koleksiyonu.",
+    "stock": 16,
+    "price": 152
+  },
+  {
+    "id": 87,
+    "title": "Kalpaklılar",
+    "author": "Samim Kocagöz",
+    "genre": "Tarihî Roman",
+    "summary": "Milli Mücadele döneminde Anadolu’nun farklı bölgelerinde geçen, bağımsızlık mücadelesini işleyen etkileyici bir roman.",
+    "stock": 16,
+    "price": 269
+  },
+  {
+    "id": 88,
+    "title": "Ötleğen Kuşu",
+    "author": "Halil Kocagöz",
+    "genre": "Şiir",
+    "summary": "Doğa, çocukluk ve Anadolu’nun sade güzelliklerini işleyen lirik şiirlerden oluşan bir kitap.",
+    "stock": 5,
+    "price": 148
+  },
+  {
+    "id": 89,
+    "title": "SES VE ÖFKE",
+    "author": "William Faulkner",
+    "genre": "Modern Roman",
+    "summary": "Bir ailenin çöküşünü zamanın parçalanmışlığı ve bilinç akışı tekniğiyle anlatan, Amerikan modernizminin başyapıtlarından biri.",
+    "stock": 11,
+    "price": 170
+  },
+  {
+    "id": 90,
+    "title": "Keloğlan Masalları",
+    "author": "Tahir Alangu",
+    "genre": "Masal / Halk Edebiyatı",
+    "summary": "Zekâsı ve hazırcevaplığıyla tanınan Keloğlan’ın serüvenlerini içeren, eğlenceli ve öğretici halk masalları derlemesi.",
+    "stock": 12,
+    "price": 181
+  },
+  {
+    "id": 91,
+    "title": "Gazoz Ağacı ve Diğer Öyküler",
+    "author": "Sabahattin Kudret Aksal",
+    "genre": "Öykü",
+    "summary": "Günlük yaşamın içindeki sıradan olaylara insani bir bakışla yaklaşan, sade diliyle dikkat çeken kısa hikayeler.",
+    "stock": 20,
+    "price": 149
+  },
+  {
+    "id": 92,
+    "title": "Açlık",
+    "author": "Knut Hamsun",
+    "genre": "Modern Roman / Psikolojik",
+    "summary": "Açlık çeken bir yazarın yaşadığı fiziksel ve zihinsel çöküşü anlatan, bireyin iç dünyasını derinlemesine işleyen psikolojik bir roman.",
+    "stock": 9,
+    "price": 159
+  },
+  {
+    "id": 93,
+    "title": "Ülkemin Efsaneleri",
+    "author": "İbrahim Zeki Burdurlu",
+    "genre": "Efsane / Derleme",
+    "summary": "Anadolu’nun çeşitli bölgelerine ait mitolojik ve folklorik efsanelerin bir araya getirildiği kültürel bir derleme.",
+    "stock": 10,
+    "price": 290
+  },
+  {
+    "id": 94,
+    "title": "Memleketimden İnsan Manzaraları : Şiirler 5",
+    "author": "Nazım Hikmet Ran",
+    "genre": "Şiir / Toplumcu",
+    "summary": "Türkiye'nin farklı kesimlerinden insan portrelerini toplumsal gerçekçi bir yaklaşımla aktaran uzun soluklu şiir serisi.",
+    "stock": 11,
+    "price": 289
+  },
+  {
+    "id": 95,
+    "title": "Kendi Gök Kubbemiz",
+    "author": "Yahya Kemal Beyatlı",
+    "genre": "Şiir",
+    "summary": "Milli kültür, tarih, İstanbul ve tabiat sevgisini zarif bir dille anlatan, klasik üslubun temsilcisi şiirlerden oluşur.",
+    "stock": 7,
+    "price": 150
+  },
+  {
+    "id": 96,
+    "title": "Üç Silahşörler",
+    "author": "Alexandre Dumas",
+    "genre": "Tarihî / Macera Romanı",
+    "summary": "Fransa'da geçen, dostluk, sadakat ve kahramanlık dolu serüvenleri anlatan klasik bir şövalye romanı.",
+    "stock": 17,
+    "price": 271
+  },
+  {
+    "id": 97,
+    "title": "Kutadgu Bilig’den Seçmeler",
+    "author": "Yusuf Has Hacib",
+    "genre": "Siyasetname / Öğüt Kitabı",
+    "summary": "Devlet yönetimi, ahlâk, adalet ve bilgi üzerine öğütler veren, Karahanlılar döneminden kalma klasik bir Türk-İslam eseri.",
+    "stock": 11,
+    "price": 256
+  },
+  {
+    "id": 98,
+    "title": "Memleket Hikayeleri",
+    "author": "Refik Halid Karay",
+    "genre": "Öykü",
+    "summary": "Anadolu insanının yaşam tarzını ve değerlerini realist bir yaklaşımla ele alan, Türk öykücülüğünün öncü eserlerinden biridir.",
+    "stock": 19,
+    "price": 243
+  },
+  {
+    "id": 99,
+    "title": "Kiralık Konak",
+    "author": "Yakup Kadri Karaosmanoğlu",
+    "genre": "Tarihî Roman",
+    "summary": "Osmanlı’dan Cumhuriyet’e geçiş sürecinde yaşanan kuşak çatışmalarını bir konak etrafında anlatan, Türk edebiyatının klasikleri arasında yer alır.",
+    "stock": 12,
+    "price": 181
+  },
+  {
+    "id": 100,
+    "title": "Küçük Ağa",
+    "author": "Tarık Buğra",
+    "genre": "Tarihî Roman",
+    "summary": "Milli Mücadele yıllarında Anadolu’da görevli bir hocanın içsel değişimiyle halkın direnişine katılmasını anlatan klasik bir roman.",
+    "stock": 11,
+    "price": 213
+  },
+  {
+    "id": 101,
+    "title": "Bir Bilim Adamının Romanı - Mustafa İnan",
+    "author": "Oğuz Atay",
+    "genre": "Biyografik Roman",
+    "summary": "Bilim insanı Mustafa İnan’ın hayatı üzerinden fedakarlık, çalışkanlık ve azmin anlatıldığı etkileyici bir biyografik roman.",
+    "stock": 13,
+    "price": 224
+  },
+  {
+    "id": 102,
+    "title": "Hep O Şarkı",
+    "author": "Yakup Kadri Karaosmanoğlu",
+    "genre": "Roman",
+    "summary": "Bir aşk hikayesi çerçevesinde Osmanlı’nın son dönemindeki değişimleri ve toplumun geçirdiği dönüşümü işleyen nostaljik bir roman.",
+    "stock": 5,
+    "price": 292
+  },
+  {
+    "id": 103,
+    "title": "Bu Ülke",
+    "author": "Cemil Meriç",
+    "genre": "Deneme / Düşünce",
+    "summary": "Felsefeden edebiyata, kültürden medeniyete uzanan geniş bir yelpazede Türkiye üzerine düşünceler ve eleştiriler sunan bir fikir kitabı.",
+    "stock": 7,
+    "price": 189
+  },
+  {
+    "id": 104,
+    "title": "YANKILI KAYALAR",
+    "author": "Ahmet Yılmaz Boyunağa",
+    "genre": "Çocuk Romanı / Tarihî",
+    "summary": "Milli Mücadele döneminde Anadolu’da yaşanan olayları bir çocuğun gözünden anlatan, tarih bilinci kazandıran bir eser.",
+    "stock": 5,
+    "price": 133
+  },
+  {
+    "id": 105,
+    "title": "Eğil Dağlar",
+    "author": "Yahya Kemal Beyatlı",
+    "genre": "Düzyazı / Deneme",
+    "summary": "Yazarın tarih, kültür ve medeniyet üzerine yazdığı yazılardan oluşan, düşünsel derinliği yüksek edebi metinler derlemesi.",
+    "stock": 8,
+    "price": 105
+  },
+  {
+    "id": 106,
+    "title": "Boğaziçi Şıngır Mıngır",
+    "author": "Salah Birsel",
+    "genre": "Deneme / Anlatı",
+    "summary": "İstanbul Boğazı’nın eski günlerini, insanlarını ve yaşam kültürünü mizahi bir dille anlatan nostaljik denemeler.",
+    "stock": 19,
+    "price": 279
+  },
+  {
+    "id": 107,
+    "title": "Çankaya",
+    "author": "Falih Rıfkı Atay",
+    "genre": "Tarih / Anı",
+    "summary": "Mustafa Kemal Atatürk’ün yaşamı, Cumhuriyet’in kuruluş süreci ve yakın tarih üzerine ilk elden bilgiler içeren önemli bir kaynak eserdir.",
+    "stock": 13,
+    "price": 203
+  },
+  {
+    "id": 108,
+    "title": "Mevlana’nın Mesnevisinden Seçme Hikayeler",
+    "author": "Kolektif",
+    "genre": "Tasavvufi Hikaye",
+    "summary": "Mevlana'nın Mesnevi’sinden alınan ahlaki ve manevi öğütler içeren öğretici hikâyelerden oluşan bir seçki.",
+    "stock": 13,
+    "price": 154
+  },
+  {
+    "id": 110,
+    "title": "Sokakta",
+    "author": "Bahaeddin Özkişi",
+    "genre": "Roman",
+    "summary": "Bireyin iç dünyasını ve toplumla olan çatışmasını manevi değerler üzerinden sorgulayan, derinlikli bir psikolojik roman.",
+    "stock": 5,
+    "price": 262
+  },
+  {
+    "id": 111,
+    "title": "Osmancık",
+    "author": "Tarık Buğra",
+    "genre": "Tarihî Roman",
+    "summary": "Osmanlı Devleti'nin kuruluş döneminde Osmancık’ın manevi olgunlaşmasını ve devletleşme sürecini anlatan epik bir roman.",
+    "stock": 8,
+    "price": 223
+  },
+  {
+    "id": 112,
+    "title": "Gün Olur Asra Bedel",
+    "author": "Cengiz Aytmatov",
+    "genre": "Roman / Bilimkurgu / Toplumcu",
+    "summary": "Sovyet baskısı altındaki bozkır halkının kaderiyle, geçmiş ve gelecek arasındaki kopmaz bağı anlatan, mistik ve gerçeküstü öğelerle örülü bir roman.",
+    "stock": 18,
+    "price": 272
+  },
+  {
+    "id": 113,
+    "title": "Yılkı Atı",
+    "author": "Abbas Sayar",
+    "genre": "Toplumcu Roman",
+    "summary": "Bir yılkı atının özgürlük mücadelesi üzerinden Anadolu köylüsünün doğayla ve yoksullukla olan savaşını anlatır.",
+    "stock": 18,
+    "price": 223
+  },
+  {
+    "id": 114,
+    "title": "Çağlayanlar",
+    "author": "Ahmet Hikmet Müftüoğlu",
+    "genre": "Öykü",
+    "summary": "Türkçülük akımının etkisindeki milli ve ahlaki değerleri ön plana çıkaran, öğretici kısa hikayelerden oluşur.",
+    "stock": 12,
+    "price": 194
+  },
+  {
+    "id": 115,
+    "title": "Bitmeyen Gece",
+    "author": "Mitat Enç",
+    "genre": "Otobiyografi",
+    "summary": "Doğuştan görme engelli bir bireyin eğitim, azim ve başarıyla geçen yaşam mücadelesini konu alan ilham verici bir hayat hikayesi.",
+    "stock": 16,
+    "price": 150
+  },
+  {
+    "id": 116,
+    "title": "Yaşar Ne Yaşar Ne Yaşamaz",
+    "author": "Aziz Nesin",
+    "genre": "Toplum Eleştirisi / Mizah",
+    "summary": "Yaşadığı halde resmi kayıtlarda yok sayılan bir adamın başına gelen trajikomik olaylarla bürokrasiye sert bir eleştiri getirir.",
+    "stock": 10,
+    "price": 140
+  },
+  {
+    "id": 117,
+    "title": "Türk Atasözleri’nden Seçmeler",
+    "author": "Kolektif",
+    "genre": "Halk Edebiyatı / Derleme",
+    "summary": "Yüzyılların birikimini yansıtan, öğüt verici ve anlam yüklü atasözlerinden derlenmiş kültürel bir kaynak.",
+    "stock": 7,
+    "price": 114
+  },
+  {
+    "id": 118,
+    "title": "Gençlerle Başbaşa",
+    "author": "Ali Fuad Başgil",
+    "genre": "Öğüt / Eğitim",
+    "summary": "Gençlere kişisel gelişim, ahlak, disiplin ve çalışkanlık üzerine yol gösterici tavsiyeler içeren değerli bir nasihat kitabı.",
+    "stock": 14,
+    "price": 217
+  },
+  {
+    "id": 120,
+    "title": "Bir Küçük Osmancık Vardı",
+    "author": "Hasan Nail Canat",
+    "genre": "Gençlik Romanı",
+    "summary": "Küçük yaşta iman, sabır ve azimle büyüyen bir çocuğun topluma örnek olacak kişisel gelişimini konu alan değerler odaklı bir roman.",
+    "stock": 5,
+    "price": 259
+  },
+  {
+    "id": 121,
+    "title": "Nasreddin Hoca Fıkralarından Seçmeler",
+    "author": "İskender Pala",
+    "genre": "Fıkra / Mizah",
+    "summary": "Halk bilgesi Nasreddin Hoca’nın zekice ve nükteli fıkralarından seçmeler, hem güldüren hem düşündüren derslerle doludur.",
+    "stock": 17,
+    "price": 108
+  },
+  {
+    "id": 122,
+    "title": "İnci",
+    "author": "John Steinbeck",
+    "genre": "Roman / Toplumsal Eleştiri",
+    "summary": "Yoksul bir balıkçının bulduğu değerli bir incinin ardından yaşadığı felaketlerle insanın açgözlülüğü ve kaderi sorgulanır.",
+    "stock": 14,
+    "price": 54
+  },
+  {
+    "id": 123,
+    "title": "Suyu Arayan Adam",
+    "author": "Şevket Süreyya Aydemir",
+    "genre": "Otobiyografi",
+    "summary": "Yazarın çocukluk yıllarından itibaren yaşadığı toplumsal ve entelektüel gelişim sürecini anlatan bir hayat hikayesi.",
+    "stock": 13,
+    "price": 169
+  },
+  {
+    "id": 124,
+    "title": "Mesnevi`den Seçmeler",
+    "author": "Mevlana Celaleddin Rumi",
+    "genre": "Tasavvufi Hikaye",
+    "summary": "İlahi aşk, ahlak ve insanın iç yolculuğu üzerine yazılmış Mevlana’nın Mesnevi’sinden seçilmiş derin anlamlı kıssalar.",
+    "stock": 7,
+    "price": 168
+  },
+  {
+    "id": 125,
+    "title": "Gülistan",
+    "author": "Sa’di Şirazi",
+    "genre": "Ahlaki / Didaktik Eser",
+    "summary": "Doğu edebiyatının en bilinen ahlaki eserlerinden biri olan Gülistan, kısa hikayeler ve veciz sözlerle insanlığa öğütler verir.",
+    "stock": 10,
+    "price": 104
+  },
+  {
+    "id": 126,
+    "title": "İnsan Ne İle Yaşar",
+    "author": "Lev Nikolayeviç Tolstoy",
+    "genre": "Felsefi / Dini Hikaye",
+    "summary": "Tolstoy’un hayat, sevgi, merhamet ve inanç üzerine yazdığı düşündürücü hikayelerden oluşan bir eser.",
+    "stock": 13,
+    "price": 143
+  },
+  {
+    "id": 127,
+    "title": "Benim Küçük Dostlarım",
+    "author": "Halide Nusret Zorlutuna",
+    "genre": "Çocuk Öyküleri",
+    "summary": "Çocuklara yönelik kaleme alınmış, sevgi, dostluk ve iyilik temalarını işleyen kısa ve etkileyici öykülerden oluşur.",
+    "stock": 9,
+    "price": 127
+  },
+  {
+    "id": 128,
+    "title": "Değirmenimden Mektuplar",
+    "author": "Alphonse Daudet",
+    "genre": "Deneme / Hikaye",
+    "summary": "Fransa kırsalından doğa ve insan manzaralarını pastoral ve duygusal bir dille sunan kısa mektup tarzı hikayeler.",
+    "stock": 16,
+    "price": 257
+  },
+  {
+    "id": 129,
+    "title": "Gençler İçin Safahat",
+    "author": "Mehmet Akif Ersoy",
+    "genre": "Şiir / Öğüt",
+    "summary": "Mehmet Akif Ersoy’un idealist gençliğe seslenen, vatan, millet, ahlak ve iman temalı şiirlerinden özel bir seçki.",
+    "stock": 6,
+    "price": 148
+  },
+  {
+    "id": 130,
+    "title": "Klasiklerle Tanışıyorum- Pollyanna",
+    "author": "Sabina Colloredo",
+    "genre": "Çocuk Romanı / Uyarlama",
+    "summary": "Pollyanna’nın iyimserlik felsefesini tanıtan, çocuklara yönelik sadeleştirilmiş bir klasik uyarlaması.",
+    "stock": 5,
+    "price": 272
+  },
+  {
+    "id": 131,
+    "title": "Falaka",
+    "author": "Ömer Seyfettin",
+    "genre": "Öykü",
+    "summary": "Yazarın çocukluk anılarından yola çıkarak yazdığı, geleneksel eğitim anlayışını hicveden kısa ve etkileyici bir hikâye.",
+    "stock": 7,
+    "price": 78
+  },
+  {
+    "id": 132,
+    "title": "Türk Manilerinden Seçmeler",
+    "author": "Kolektif",
+    "genre": "Halk Edebiyatı / Derleme",
+    "summary": "Türk halk kültüründe önemli yer tutan aşk, doğa ve günlük yaşam temalı anonim manilerin bir araya getirildiği kaynak eser.",
+    "stock": 13,
+    "price": 148
+  },
+  {
+    "id": 133,
+    "title": "Türk Bilmecelerinden Seçmeler",
+    "author": "Kolektif",
+    "genre": "Halk Edebiyatı / Bilmece",
+    "summary": "Geleneksel Türk halk eğlencesi olan bilmece kültürünü yaşatan, zekâyı geliştiren eğlenceli bir derleme.",
+    "stock": 18,
+    "price": 278
+  },
+  {
+    "id": 134,
+    "title": "Heidi",
+    "author": "Johanna Spyri",
+    "genre": "Çocuk Romanı",
+    "summary": "Alpler’de dedesiyle yaşayan küçük kız Heidi’nin doğaya, dostluğa ve iyiliğe dayalı hayatını anlatan sevilen bir klasik.",
+    "stock": 11,
+    "price": 261
+  },
+  {
+    "id": 135,
+    "title": "Türkçede Deyimler",
+    "author": "Derleme",
+    "genre": "Dil / Derleme",
+    "summary": "Türkçede sık kullanılan deyimlerin anlam ve örnekleriyle açıklandığı, dili daha iyi tanımaya yardımcı bir kaynak.",
+    "stock": 13,
+    "price": 153
+  },
+  {
+    "id": 136,
+    "title": "Dostlar Beni Hatırlasın Aşık Veysel Hayatı ve Bütün Şiirleri",
+    "author": "Aşık Veysel",
+    "genre": "Biyografi / Şiir",
+    "summary": "Aşık Veysel’in yaşam öyküsünü ve sevgi, doğa, vatan üzerine yazdığı tüm şiirlerini içeren kapsamlı bir eser.",
+    "stock": 7,
+    "price": 67
+  },
+  {
+    "id": 137,
+    "title": "Şermin",
+    "author": "Tevfik Fikret",
+    "genre": "Çocuk Şiiri",
+    "summary": "Tevfik Fikret’in çocuklar için yazdığı eğitici ve ahlaki mesajlar içeren neşeli ve öğretici şiirlerden oluşur.",
+    "stock": 6,
+    "price": 97
+  },
+  {
+    "id": 138,
+    "title": "Arif Nihat Asya’dan Seçme Şiirler ve Yazılar",
+    "author": "Arif Nihat Asya",
+    "genre": "Şiir / Düşünce",
+    "summary": "Bayrak şairi Arif Nihat Asya'nın vatan, iman ve idealizm temalı şiir ve yazılarından oluşan seçilmiş bir derleme.",
+    "stock": 16,
+    "price": 90
+  },
+  {
+    "id": 139,
+    "title": "Al`lı ile Fırfırı",
+    "author": "Oğuz Tansel",
+    "genre": "Masal / Çocuk Edebiyatı",
+    "summary": "Türk masal geleneğinden beslenen, eğlenceli ve yaratıcı anlatımıyla dikkat çeken dostluk ve cesaret temalı bir masal.",
+    "stock": 16,
+    "price": 58
+  },
+  {
+    "id": 140,
+    "title": "Drina’da Son Gün",
+    "author": "Faik Baysal",
+    "genre": "Tarihî Roman",
+    "summary": "Balkan coğrafyasının çalkantılı döneminde yaşanan insanlık dramını ve savaşın bireyler üzerindeki etkisini konu alan etkileyici bir roman.",
+    "stock": 7,
+    "price": 78
+  },
+  {
+    "id": 141,
+    "title": "Türkülerden Seçmeler",
+    "author": "Derleme",
+    "genre": "Halk Edebiyatı / Derleme",
+    "summary": "Anadolu’nun çeşitli yörelerinden derlenmiş, sevgi, ayrılık, gurbet ve kahramanlık temalı halk türküleri koleksiyonu.",
+    "stock": 17,
+    "price": 138
+  },
+  {
+    "id": 142,
+    "title": "Beş Şehir",
+    "author": "Ahmet Hamdi Tanpınar",
+    "genre": "Deneme / Şehir Monografisi",
+    "summary": "Tanpınar’ın Ankara, Erzurum, Bursa, Konya ve İstanbul üzerine yazdığı, tarih ve kültürle yoğrulmuş edebi şehir portreleri.",
+    "stock": 8,
+    "price": 299
+  },
+  {
+    "id": 143,
+    "title": "Türk Ninnilerinden Seçmeler",
+    "author": "Amil Çelebioğlu",
+    "genre": "Halk Edebiyatı / Ninni",
+    "summary": "Anadolu’nun farklı yörelerinden derlenen, annelerin çocuklarına söyledikleri sevgi dolu geleneksel ninnilerden oluşur.",
+    "stock": 5,
+    "price": 107
+  },
+  {
+    "id": 144,
+    "title": "Türk Masalları : Seçmeler",
+    "author": "Naki Tezel",
+    "genre": "Halk Masalı / Derleme",
+    "summary": "Türk halk anlatılarından seçilmiş, iyilik, kötülük, cesaret ve bilgelik temalarını işleyen klasik masal derlemesi.",
+    "stock": 8,
+    "price": 116
+  },
+  {
+    "id": 145,
+    "title": "Kuklacı",
+    "author": "Kemalettin Tuğcu",
+    "genre": "Çocuk Romanı",
+    "summary": "Hayatın zorlukları içinde hayallerinden ve iyilikten vazgeçmeyen bir çocuğun dokunaklı öyküsü.",
+    "stock": 12,
+    "price": 215
+  },
+  {
+    "id": 146,
+    "title": "Dokuzuncu Hariciye Koğuşu",
+    "author": "Peyami Safa",
+    "genre": "Psikolojik Roman",
+    "summary": "Hastalıkla boğuşan genç bir çocuğun iç dünyasını ve yaşama tutunma çabasını anlatan Türk edebiyatının klasiklerinden biri.",
+    "stock": 7,
+    "price": 117
+  },
+  {
+    "id": 147,
+    "title": "Domaniç Dağlarının Yolcusu",
+    "author": "Şukufe Nihal",
+    "genre": "Roman",
+    "summary": "Anadolu kadınlarının bağımsızlık ve özgürlük mücadelesini konu alan, vatanseverlik temalı bir roman.",
+    "stock": 10,
+    "price": 197
+  },
+  {
+    "id": 148,
+    "title": "Don Kişot",
+    "author": "Miguel de Cervantes Saavedra",
+    "genre": "Macera / Parodi",
+    "summary": "Gerçeklikten kopmuş bir hayalperestin şövalyelik uğruna çıktığı komik ve düşündürücü serüvenleri anlatan dünya edebiyatının başyapıtı.",
+    "stock": 17,
+    "price": 253
+  },
+  {
+    "id": 149,
+    "title": "Esir Şehrin İnsanları",
+    "author": "Kemal Tahir",
+    "genre": "Tarihî Roman",
+    "summary": "İstanbul’un işgal yıllarında geçen, aydınların kimlik arayışını ve halkla olan kopukluğunu işleyen politik ve tarihî bir roman.",
+    "stock": 9,
+    "price": 214
+  },
+  {
+    "id": 150,
+    "title": "Madame Bovary",
+    "author": "Gustave Flaubert",
+    "genre": "Realist Roman",
+    "summary": "Emma Bovary’nin burjuva yaşamından duyduğu tatminsizlikle, hayal ettiği aşkı arayışını anlatan, realizmin öncüsü kabul edilen bir klasik.",
+    "stock": 8,
+    "price": 236
+  },
+  {
+    "id": 151,
+    "title": "Aldı Sözü Anadolu",
+    "author": "Mehmet Önder",
+    "genre": "Deneme / Kültür Yazıları",
+    "summary": "Anadolu’nun gelenekleri, kültürü ve halk değerlerini işleyen yazılardan oluşan, toplumsal belleğe katkı sunan bir eser.",
+    "stock": 11,
+    "price": 62
+  },
+  {
+    "id": 152,
+    "title": "Zeytindağı",
+    "author": "Falih Rıfkı Atay",
+    "genre": "Anı / Gezi Yazısı",
+    "summary": "Yazarın I. Dünya Savaşı döneminde Ortadoğu’daki gözlemlerini ve politik değerlendirmelerini içeren, çarpıcı bir anı kitabı.",
+    "stock": 10,
+    "price": 165
+  },
+  {
+    "id": 153,
+    "title": "Fatih Harbiye",
+    "author": "Peyami Safa",
+    "genre": "Roman",
+    "summary": "Doğu-Batı çatışmasını genç bir kızın iki farklı yaşam tarzı arasındaki gelgitleri üzerinden ele alan klasik bir eser.",
+    "stock": 15,
+    "price": 125
+  },
+  {
+    "id": 154,
+    "title": "Seçme Hikayeler Milli Eğitim Bakanlığı İlköğretim 100 Temel Eser",
+    "author": "Anton Pavloviç Çehov",
+    "genre": "Öykü",
+    "summary": "Çehov’un insan psikolojisine dair gözlem gücüyle yazdığı, sade ama derin anlamlar taşıyan kısa hikayelerinden oluşan seçki.",
+    "stock": 14,
+    "price": 209
+  },
+  {
+    "id": 155,
+    "title": "Aritmetik İyi Kuşlar Pekiyi",
+    "author": "Cemal Süreya",
+    "genre": "Şiir",
+    "summary": "Modern Türk şiirinin öncülerinden Cemal Süreya’nın özgün dili ve duygusal derinliğiyle kaleme aldığı lirik şiirlerinden oluşan bir kitap.",
+    "stock": 16,
+    "price": 104
+  }
+]
