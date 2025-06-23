@@ -1,4 +1,10 @@
-*{margin:0; padding:0; box-sizing: border-box; font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+@import url('https://fonts.googleapis.com/css2?family=Funnel+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+*{  
+    margin:0; 
+    padding:0; 
+    box-sizing: border-box; 
+    font-family: "Funnel Sans", sans-serif;
+}
 
 .container{
     width: 100%;
@@ -61,12 +67,15 @@
     justify-content: space-between;
 }
 .prompt-container input[type=text]{
+    font-weight: 300;
+    background: #444;
+    color: #fff;
     width: calc(100% - 70px);
-    padding: 5px 10px;
+    padding: 5px 1.2rem;
     height: 50px;
     font-size: 1.1rem;
     outline: none;
-    border:none;
+    border: none;
     border-radius: 25px;
 }
 .prompt-container button{

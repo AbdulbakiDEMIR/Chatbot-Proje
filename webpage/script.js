@@ -9,12 +9,12 @@ function send_query(event){
     }
 
     const params = new URLSearchParams({ query: queryValue.toLowerCase() });
-    fetch("http://127.0.0.1:5000/?"+ params.toString(), {
+    fetch("http://127.0.0.1:1616/?"+ params.toString(), {
         method: "GET"
     })
         .then(response => response.json())
         .then(data => {
-            const message = data.respone;
+            const message = data.response;
             add_bot_message(message)
             const chatContainer = document.querySelector(".chat-container");
             chatContainer.scrollTop = chatContainer.scrollHeight;
