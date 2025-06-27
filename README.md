@@ -70,8 +70,7 @@ chatbot_projesi/
 │   ├── script.js              # JavaScript dosyası
 │   └── style.css              # CSS dosyası
 ├── images/                    # Resim dosyaları
-├── requirement.txt            # Python bağımlılıkları
-└── readme.md                  # Python bağımlılıkları
+└── requirement.txt            # Python bağımlılıkları
 ```
 
 ## 🧠 Kullanılan Teknolojiler
