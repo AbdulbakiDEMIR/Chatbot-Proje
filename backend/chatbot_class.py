@@ -27,7 +27,6 @@ def data_preprocessing(data_path):
         
         # Metadata bilgileri
         metadata = {
-            "id": book["id"],
             "kitap_adi": book["title"].lower(),
             "yazar": book["author"].lower(),
             "tur": book["genre"].lower(),
@@ -55,12 +54,23 @@ class Chatbot:
         self.embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001", api_key=os.getenv("GOOGLE_API_KEY"))
         
         # Vektör veritabanını yükle
-        self.upload_vectorstore("./chroma_books_db")
-
+        self.docs = data_preprocessing("kitaplar_dataset.json")
+        persist_dir = "./chroma_books_db"
+        if os.path.exists(persist_dir) and os.listdir(persist_dir):
+            # Eğer persist dizini varsa ve içi boş değilse, veritabanını yükle
+            self.vectorstore = Chroma(persist_directory=persist_dir, embedding_function=self.embeddings)
+            print("Var olan Chroma DB yüklendi.")
+        else:
+            # Yoksa dokümanları ekle ve kaydet
+            self.vectorstore = Chroma.from_documents(
+                documents=self.docs,
+                embedding=self.embeddings,
+                persist_directory=persist_dir
+            )
         # Benzerlik tabanlı retriever ayarla
         self.retriever = self.vectorstore.as_retriever(
             search_type="similarity",
-            search_kwargs={"k": 10}
+            search_kwargs={"k": 20}
         )
 
         # Gemini LLM modeli (düşük gecikmeli)
@@ -91,24 +101,6 @@ class Chatbot:
 
         # Sepet başlangıçta boş
         self.cart = []
-    
-    # Vektör veritabanını yükleme veya oluşturma
-    def upload_vectorstore(self, persist_dir):
-        if os.path.exists(persist_dir) and os.path.exists(os.path.join(persist_dir, "index")):
-            # Var olan veritabanını yükle
-            self.vectorstore = Chroma(
-                persist_directory=persist_dir,
-                embedding=self.embeddings
-            )
-        else:
-            # Yeni veritabanı oluştur
-            self.docs = data_preprocessing("kitaplar_dataset.json")
-            self.vectorstore = Chroma.from_documents(
-                documents=self.docs,
-                embedding=self.embeddings,
-                persist_directory=persist_dir
-            )
-    
     
     # Kitap sepete ekle
     def add_book(self, book):

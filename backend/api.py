@@ -7,8 +7,8 @@ import json
 app = Flask(__name__)
 CORS(app)  # CORS'u tüm domainler için etkinleştir (güvenli değilse domain kısıtlaması eklenebilir)
 
-# Chatbot sınıfından bir örnek oluşturuluyor (uygulama başlarken yüklenir)
 chatbot = Chatbot()
+# Chatbot sınıfından bir örnek oluşturuluyor (uygulama başlarken yüklenir)
 
 # Ana endpoint ('/') tanımlanıyor
 @app.route('/', methods=['GET'])
@@ -32,4 +32,4 @@ def chat_bot():
 
 # Uygulama doğrudan çalıştırıldığında başlatılır
 if __name__ == '__main__':
-    app.run(debug=True, port=1616)
+    app.run(debug=True, port=1616, use_reloader=False)
